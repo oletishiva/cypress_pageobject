@@ -1,6 +1,7 @@
 # cypress_pageobject
 
 Installing Cypress from Scratch
+
 Create a project directory Open a Terminal in the project root directory
 $ npm init
 $ npm install cypress --save-dev
